@@ -8,9 +8,9 @@ var n=t.indexOf('stoken');
 window.location.replace('https://store.steampowered.com/account/newaccountverification?'+t.substr(n, 137));
 
 /*
-var av=j=1, vremja=700;
-wo_rk();
-function wo_rk(){
-// (1==j?r='&#92;':(2==j?r='|':(3==j?r='/':r='-'))); j++; if(j>=4) j=0; $('#wo_rk').html(r);
-if(av){av=0; setInterval(wo_rk, vremja)}}
+var av=j=1, v=700;
+w();
+function w(){
+// (1==j?r='&#92;':(2==j?r='|':(3==j?r='/':r='-'))); j++; if(j>=4) j=0; $('#w').html(r);
+if(av){av=0; setInterval(w, v)}}
 ///*///
