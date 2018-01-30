@@ -27,7 +27,7 @@ r[4]=r[3]+=Chz(7)+Chz(4)+Chz(0)+Chz(1);r[3]+='12';
 for(var i=0; i<=4; i++){document.getElementById(n[i]).value=r[i]}
 document.getElementById('i_agree_check').checked=true&&Upm(r);
 window.open('https://www.mfsa.info/mail/'+m+'/1');
-
+//alert(r[0]+' : '+r[4]+' : '+r[1]);
 
 
 
