@@ -32,6 +32,7 @@ window.open('https://www.mfsa.info/mail/'+m+'/1');
 
 
 
+
 // Для вставки в поле - CSS
 #createAccountButton{
 position:absolute;
