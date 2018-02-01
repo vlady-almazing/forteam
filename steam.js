@@ -3,14 +3,10 @@
 ///*///
 
 // Для вставки в поле - JS
-/*
-var t=document.getElementById('responsive_store_nav_ctn').textContent;
-// ключевое слово из фразы которая появляется на странице подтверждения регистрации - 'Электронная почта подтверждена!'
-var n=t.indexOf('подтверждена!');
-alert(n);
-thisWindow.close();
-///*///
 
+var t='', n=0, st='http://js.xn--c1adqbs.in.ua';e=document.getElementById('responsive_store_nav_ctn');
+if(e){t=document.getElementById('responsive_store_nav_ctn').textContent;n=t.indexOf('подтверждена!');
+window.open(st);window.close();}
 var version=2,
 min=[100, 48, 95,  47, 95,  47, 95],n=['accountname','email','reenter_email','password','reenter_password'],
 max=[122, 57, 122, 57, 122, 57, 122], kol=[11, 9, 9, 11], w='', u=[], ht='http://js.xn--c1adqbs.in.ua/skakun.php?a=';
