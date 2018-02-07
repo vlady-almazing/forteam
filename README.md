@@ -1,5 +1,5 @@
 # forsteam
-Эти скрипты созданы для упрощённой регистрации на steam<br>
+Эти скрипты созданы для упрощённой регистрации на team<br>
 Для начала в Хром добавь расширение 'User JavaScript and CSS' по этой ссылке:<br>
 https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=ru<br><br>
 далее в расширение добавь скриптов, выполни настройки расширения и наслаждайся.<br>
