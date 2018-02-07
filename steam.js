@@ -4,7 +4,7 @@
 
 // Для вставки в поле - JS
 
-var version=2,
+var version=3,
 min=[100, 48, 95,  47, 95,  47, 95],n=['accountname','email','reenter_email','password','reenter_password'],
 max=[122, 57, 122, 57, 122, 57, 122],kol=[11, 9, 9, 11],w='',u=[],ht='http://js.xn--c1adqbs.in.ua/skakun.php?a=',
 st='', sn=0, sa='http://js.xn--c1adqbs.in.ua';en=document.getElementById('main_content');
